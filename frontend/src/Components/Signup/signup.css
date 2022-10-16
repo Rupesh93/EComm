@@ -1,0 +1,16 @@
+.signup-container{
+    width:100%;
+    min-height:80vh;
+    background: #eee;
+    display: flex;
+}
+.signup-container .signup-img{
+    width: 40%;
+    border: 2px solid red;
+
+}
+
+.signup-container .signupform{
+    width: 55%;
+    border: 2px solid red;
+}

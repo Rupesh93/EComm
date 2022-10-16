@@ -1,0 +1,28 @@
+.navbar{
+    height: 80px;
+    width: 100%;
+    background: #000;
+    display: flex;
+}
+
+.navbar .brand-logo{
+    width:100px;
+}
+
+.navbar .navul{
+    display: flex;
+    position: absolute;
+    right: 5%;
+}
+
+.navbar .navul .nav-links{
+    margin: 0px 10px;
+    list-style: none;
+    color: #fff;
+}
+
+.navbar .navul .nav-links .nav-link{
+    text-decoration: none;
+    color: #fff;
+
+}
